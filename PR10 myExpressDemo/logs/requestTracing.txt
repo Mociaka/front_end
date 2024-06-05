@@ -1,0 +1,168 @@
+20240604	08:44:38	4b13c875-9bc0-4176-8d54-7dadadf89e19	GET	undefined	/
+
+20240604	08:44:38	cce6f8ec-4467-45e4-a0ab-956e84184605	GET	undefined	/favicon.ico
+
+20240604	08:44:40	799427ac-f2e3-49bc-9064-95ce8656e9b1	GET	undefined	/Products
+
+20240604	08:44:40	61559004-de79-4ab6-a353-76baca46f0f8	GET	undefined	/api/products
+
+20240604	08:45:09	3f40f55b-17d8-46bb-a810-e512477e3062	GET	undefined	/create.html
+
+20240604	08:45:12	79b06457-d779-4ec6-b551-e936d976b949	POST	http://localhost:8080	/api/products
+
+20240604	08:45:12	1c2bdcfa-aa0e-4262-ad6c-220d1f7494a2	GET	undefined	/products
+
+20240604	08:45:12	ca3ee6eb-0b06-49e8-aefe-9c0e48ca0883	GET	undefined	/api/products
+
+20240604	08:46:30	f8f2e58a-1804-40de-a55a-853d035d5403	GET	undefined	/create.html
+
+20240604	08:46:41	4af555aa-5c66-4237-8028-e7b456df3488	POST	http://localhost:8080	/api/products
+
+20240604	08:46:41	28567510-67e3-49ff-804e-7f69029ba06b	GET	undefined	/products
+
+20240604	08:46:41	aba67b0b-ffcd-4b52-9e7d-c6ddd89c8bef	GET	undefined	/api/products
+
+20240604	08:46:53	09dbe030-30f6-4015-a0c4-ba8a171c6a88	GET	undefined	/create.html
+
+20240604	08:47:04	b9731272-d1b3-4975-aafb-902a1dd9a924	POST	http://localhost:8080	/api/products
+
+20240604	08:47:04	5a636870-ca2d-40ea-8f63-ef5269ed2178	GET	undefined	/products
+
+20240604	08:47:04	c344cddd-39db-4590-a19b-1cb505f2ae51	GET	undefined	/api/products
+
+20240604	09:04:44	d051b7d1-816c-4d03-b835-9f4f873511e8	GET	undefined	/
+
+20240604	09:04:45	7965bec4-52fa-4365-adde-b3700a351f8c	GET	undefined	/favicon.ico
+
+20240604	09:04:46	ffaac69a-de21-418d-82db-ae0804558e15	GET	undefined	/about
+
+20240604	09:04:47	733149df-e44f-43ab-b151-6611a7bd009e	GET	undefined	/
+
+20240604	09:04:48	81af82a3-71b9-44e8-b449-35fbc9108507	GET	undefined	/Products
+
+20240604	09:04:48	0068e67d-84b4-4e96-a48e-90b2e24977ab	GET	undefined	/api/products
+
+20240604	09:04:49	9bc68aac-5606-4fb9-9ecc-449b3122a7ed	GET	undefined	/create.html
+
+20240604	09:04:56	d734f131-f0be-4c8e-9116-7c001e09321a	POST	http://localhost:8080	/api/products
+
+20240604	09:04:56	4bac7868-6194-4493-9e8e-3064fddec191	GET	undefined	/products
+
+20240604	09:04:56	e8be5d5c-a990-44a8-b46e-d8314b9f8985	GET	undefined	/api/products
+
+20240604	09:05:26	427ee386-b6d1-4d1a-b8ab-83b72d1dcba7	GET	undefined	/
+
+20240604	09:05:27	9da5f73e-e9b2-473f-be36-de02136cd19e	GET	undefined	/favicon.ico
+
+20240604	09:05:28	58eda114-fc71-45e3-aee3-806177c07a27	GET	undefined	/Products
+
+20240604	09:05:28	150fc758-2f75-471c-9c92-df8e367f4403	GET	undefined	/api/products
+
+20240604	09:05:28	1a26e950-5808-4290-a171-eaa90110f4a5	GET	undefined	/create.html
+
+20240604	09:05:30	8f78666b-60cc-49a8-96cc-b99f7e490972	POST	http://localhost:8080	/api/products
+
+20240604	09:05:30	3d368917-aac6-43de-bec2-362aa3a3ab74	GET	undefined	/products
+
+20240604	09:05:30	3340cbe9-bff4-4308-be48-f964a9ae61d1	GET	undefined	/api/products
+
+20240604	09:11:52	7e4b8efa-ce70-4367-a042-8f85ea255797	GET	undefined	/create.html
+
+20240604	09:11:54	7aea68df-2bcf-4909-a32c-949c04c7daba	POST	http://localhost:8080	/api/products
+
+20240604	09:11:54	c8f4250c-f222-4a48-b611-8c0aa7bd61b0	GET	undefined	/products
+
+20240604	09:11:54	ef7b8be6-9577-4552-9a0e-ff71982686dc	GET	undefined	/api/products
+
+20240604	09:16:22	92bd77cb-c889-44ae-a848-6b7842e2eba8	GET	undefined	/products
+
+20240604	09:16:22	ac335e0c-27fa-4203-b945-58e8af0cf72c	GET	undefined	/api/products
+
+20240604	09:16:26	2aea72a4-d21d-489d-972b-d031a0cbcade	GET	undefined	/create.html
+
+20240604	09:16:28	618e3c81-5b20-47be-b114-61973096c347	POST	http://localhost:8080	/api/products
+
+20240604	09:16:28	acccacd2-439a-44f7-85bc-6706a0e5e59a	GET	undefined	/products
+
+20240604	09:16:28	6a52940e-b10a-4cd8-be90-23cb76e84f55	GET	undefined	/api/products
+
+20240604	09:18:13	4703ad80-30f2-4c17-a2a5-3074739f3f82	GET	undefined	/create.html
+
+20240604	09:18:14	c7d97b42-d3a7-40c4-b22b-d53de3780a02	POST	http://localhost:8080	/api/products
+
+20240604	09:18:14	ae110c83-85fa-4f54-8155-8c46ca751390	GET	undefined	/products
+
+20240604	09:18:15	c8d00313-164b-40a4-a390-1a44142a0e70	GET	undefined	/api/products
+
+20240604	09:18:22	45a563d1-f224-4f75-87c0-355162486ca6	GET	undefined	/create.html
+
+20240604	09:18:24	714a8234-89a4-4ef5-b342-8690b01552cf	POST	http://localhost:8080	/api/products
+
+20240604	09:18:24	132f63ee-301c-4a5f-8946-68f6b19a3b58	GET	undefined	/products
+
+20240604	09:18:24	66403eee-58cd-442e-bd47-70207b6f75c9	GET	undefined	/api/products
+
+20240604	09:39:11	abacff4a-e505-425d-932d-9d1f97518e32	DELETE	http://localhost:8080	/api/products/6
+
+20240604	09:39:11	6468ef08-408c-4e71-8104-9e1a6365c98a	GET	undefined	/products
+
+20240604	09:39:11	1e47696c-5920-48f9-a058-6be6f2ba5d18	GET	undefined	/api/products
+
+20240604	09:39:14	804c165a-2a17-4d34-afe5-f1f9708249ea	PUT	http://localhost:8080	/api/products/7
+
+20240604	09:39:14	8e6e6663-eac1-455f-9568-261dbb6feb6d	GET	undefined	/products
+
+20240604	09:39:14	121e9a2d-4128-4e8d-b32e-9a9f5938c287	GET	undefined	/api/products
+
+20240604	09:39:20	c08eacb8-41a3-46fc-8cc5-60009f3c030e	PUT	http://localhost:8080	/api/products/7
+
+20240604	09:39:20	6960ba05-26dd-4ee2-812f-c2f8aa263bac	GET	undefined	/products
+
+20240604	09:39:20	6afca03c-c2d5-4679-89dd-9eb2b9270c85	GET	undefined	/api/products
+
+20240604	09:39:22	36b858fb-b21a-4b27-a620-5a4b97c32178	GET	undefined	/create.html
+
+20240604	09:39:25	6a4145e0-0081-435d-b626-f8466a44f461	POST	http://localhost:8080	/api/products
+
+20240604	09:39:25	fc13bf7d-b223-4cdd-8e84-69f9377d8910	GET	undefined	/products
+
+20240604	09:39:25	d4f67f0a-2b8c-4ea9-999c-1eb41f9eac76	GET	undefined	/api/products
+
+20240604	09:41:32	be348138-bf71-466f-9ef6-858ebd61dc5f	PUT	http://localhost:8080	/api/products/4
+
+20240604	09:41:32	41689db9-8925-4122-b7e5-ba24da85485c	GET	undefined	/products
+
+20240604	09:41:32	fa6f602d-902c-4e76-bd4f-85997d8a0798	GET	undefined	/api/products
+
+20240604	09:44:08	68d4dc5a-33fc-4d31-b2d4-feadc51ff253	PUT	http://localhost:8080	/api/products/4
+
+20240604	09:44:08	909790bd-c113-4e67-b72d-8653f225d89b	GET	undefined	/products
+
+20240604	09:44:08	bd781819-e0ed-434d-8371-b60abccb00a4	GET	undefined	/api/products
+
+20240604	09:44:12	1e843bf9-1e43-4ee2-9fc6-8f751b768fa8	GET	undefined	/create.html
+
+20240604	09:44:14	36b6254a-6980-4f6a-a026-f1afa11d1193	POST	http://localhost:8080	/api/products
+
+20240604	09:44:14	25e348c4-4f5b-45a5-bd58-622bb7b7f6ad	GET	undefined	/products
+
+20240604	09:44:14	513e6db3-8c02-4dec-9bdd-514b49d1d80f	GET	undefined	/api/products
+
+20240604	09:44:17	2646635b-d9b4-4409-ae8d-2b613318398e	DELETE	http://localhost:8080	/api/products/3
+
+20240604	09:44:17	894b0ec6-95ba-40a4-ac7e-d8c1220e9dea	GET	undefined	/products
+
+20240604	09:44:17	2a01e077-071b-4051-bab1-13018f24172d	GET	undefined	/api/products
+
+20240604	09:44:19	e8fe3cc0-30a3-4ebf-841c-86130296f904	GET	undefined	/
+
+20240604	09:44:20	f5cf92af-3645-48f0-bd16-a6db77269617	GET	undefined	/Products
+
+20240604	09:44:20	b60c8b90-6423-4f14-9be0-d5b9b25c2c09	GET	undefined	/api/products
+
+20240604	09:44:21	89860b8e-be05-4d49-a8b6-cb4e8d2b0e3e	GET	undefined	/
+
+20240604	09:44:22	c3cb9fb8-c072-4776-a18e-893acad10bd2	GET	undefined	/about
+
+20240604	09:44:23	bb45e278-5999-4822-a8be-9539d40dfa61	GET	undefined	/
+
